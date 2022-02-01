@@ -50,6 +50,8 @@ Users should be able to:
 
 - [Dark/Light toggle button](https://www.youtube.com/watch?v=y6jtDY0yrZw) - I was looking a way to do the toogle and i find this amazing design so i used, take a look to that channel aswell.
 
+- [Saving the theme in local storage](https://www.youtube.com/watch?v=SS0haGSC6vI) - Looking for the way to use dark/ light theme i find this awesome way to keep the changes on the theme even if you close the navigator, i liked a lot so i implemented as well.
+
 ## Author
 
 <!-- - Website - [Anthony Rosman](https://bit.ly/portafolioanthony) -->

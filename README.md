@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-using-bem-and-vanilla-js-DhtHrMEil)
 - Live Site URL: [Live preview](https://social-dashboard-anthony-rosman.netlify.app/)
 
 ## My process

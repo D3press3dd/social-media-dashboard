@@ -404,6 +404,19 @@ body {
   margin-bottom: 0;
 }
 
+.attribution a:link,
+.attribution a:visited {
+  text-decoration: none;
+  color: var(--dark-text-desaturated);
+  transition: var(--transition);
+}
+
+.attribution a:link:hover,
+.attribution a:visited:hover {
+  color: var(--facebook);
+  transition: var(--transition);
+}
+
 /* ---------------------------LIGHT THEME------------------------------- */
 /* ---------------------------LIGHT THEME------------------------------- */
 /* ---------------------------LIGHT THEME------------------------------- */

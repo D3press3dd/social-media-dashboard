@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Live preview](social-dashboard-anthony-rosman.netlify.app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live preview](https://social-dashboard-anthony-rosman.netlify.app/)
 
 ## My process
 
